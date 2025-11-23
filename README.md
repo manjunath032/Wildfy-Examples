@@ -19,7 +19,7 @@
 | Migration Risk | Very High | Low–Medium | Medium–High | High | High |
 | Best Use Case | Legacy | Phase-1 migration | Phase-2 modernization | Optional future | Avoid if cost-sensitive |
 | Client Backward Compatibility | ✔ Full | ✔ Good | ⚠ Partial | ❌ Low | ✔ Full |
-| CCode Change Level (22 Frameworks) | N/A | Minimal → Moderate | Medium → High | High | Minimal → Moderate |
+| Code Change Level (22 Frameworks) | N/A | Minimal → Moderate | Medium → High | High | Minimal → Moderate |
 | Code Change Level (Apps)  | N/A | Minimal → Moderate | Medium → High | High | Minimal → Moderate |
 
 ### Notes
