@@ -15,7 +15,7 @@
 | RHEL 9 Compatibility | ❌ No | ✔ Yes | ✔ Yes | ✔ Yes | ✔ Yes |
 | Cloud/K8s Readiness | ❌ No | Limited | Strong | Strongest | Limited |
 | License / Cost | Paid | Free | Free | Free | Paid |
-| Vendor Lock-in | High | Low | Low | Low | Very High |
+| Vendor Lock-in | High | Low | Low | Low | ❌ Very High |
 | Migration Risk | Very High | Low–Medium | Medium–High | High | High |
 | Best Use Case | Legacy | Phase-1 migration | Phase-2 modernization | Optional future | Avoid if cost-sensitive |
 | Client Backward Compatibility | ✔ Full | ✔ Good | ⚠ Partial | ❌ Low | ✔ Full |
