@@ -8,8 +8,6 @@
 | Namespace | `javax.*` | `javax.*` | `jakarta.*` | `jakarta.*` | `javax.*` |
 | javax Support | ✔ Full | ✔ Full | ❌ None | ❌ None | ✔ Full |
 | jakarta Requirement | No | No | Yes | Yes | No |
-| Code Change Level (Apps) | None | Minimal → Moderate | Medium → High | High | Minimal |
-| Code Change Level (22 Frameworks) | None | Minimal → Moderate | Medium → High | High | Minimal → Moderate |
 | EJB2 Support | ✔ Full | ✔ Legacy | ❌ Must rewrite | ❌ Must rewrite | ✔ Partial/Legacy |
 | JMS Migration Impact | None | Low | Medium | High | Medium |
 | Security Posture | High Risk | Good | Excellent | Best | Good |
@@ -21,8 +19,8 @@
 | Migration Risk | Very High | Low–Medium | Medium–High | High | High |
 | Best Use Case | Legacy | Phase-1 migration | Phase-2 modernization | Optional future | Avoid if cost-sensitive |
 | Client Backward Compatibility | ✔ Full | ✔ Good | ⚠ Partial | ❌ Low | ✔ Full |
-| Effort Estimate (Apps) | N/A | Minimal → Moderate | Medium → High | High | Minimal → Moderate |
-| Effort Estimate (Frameworks) | N/A | Minimal → Moderate | Medium → High | High | Minimal → Moderate |
+| CCode Change Level (22 Frameworks) | N/A | Minimal → Moderate | Medium → High | High | Minimal → Moderate |
+| Code Change Level (Apps)  | N/A | Minimal → Moderate | Medium → High | High | Minimal → Moderate |
 
 ### Notes
 - WildFly 26 + Java 8: Most legacy clients supported, minimal changes.
