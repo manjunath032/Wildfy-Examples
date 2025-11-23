@@ -10,7 +10,7 @@
 | jakarta Requirement | No | No | Yes | Yes | No |
 | EJB2 Support | ✔ Full | ✔ Legacy | ❌ Must rewrite | ❌ Must rewrite | ✔ Partial/Legacy |
 | JMS Migration Impact | None | Low | Medium | High | Medium |
-| Security Posture | High Risk | Good | Excellent | Best | Good |
+| Security Posture | High Risk | Good | Best | Best | Good |
 | Support Lifespan | ❌ EOL | Medium | Very High | Very High | Medium |
 | RHEL 9 Compatibility | ❌ No | ✔ Yes | ✔ Yes | ✔ Yes | ✔ Yes |
 | Cloud/K8s Readiness | ❌ No | Limited | Strong | Strongest | Limited |
